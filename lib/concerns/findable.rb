@@ -1,3 +1,3 @@
 module Findable
   module ClassMethods
-    def Reset
+    def reset_all
