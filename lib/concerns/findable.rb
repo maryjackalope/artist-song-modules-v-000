@@ -4,4 +4,6 @@ module Findable
       self.all.clear
     end
     
-    
+    def count
+      self.all.count
+      
